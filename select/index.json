@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "'FIGHT' ADDICT",
+  "base_artist": "RAISE A SUILEN",
+  "createdAt": "2026-01-03T17:04:25.523681Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "‘FIGHT’ ADDICT",
+      "artist": "RAISE A SUILEN",
+      "has_synced": true,
+      "path": "select/01_‘FIGHT’_ADDICT_RAISE_A_SUILEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "'FIGHT' ADDICT",
+      "artist": "RAISE A SUILEN",
+      "has_synced": false,
+      "path": "select/pl_01_'FIGHT'_ADDICT_RAISE_A_SUILEN.txt"
+    }
+  ]
+}
